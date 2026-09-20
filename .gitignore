@@ -1,0 +1,36 @@
+# --- Python ---------------------------------------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+
+# --- Build output (PyInstaller / Inno Setup) --------------------------------
+# Regenerate with: py -3.13 tools\build_release.py
+build/
+dist/
+release/
+*.spec.bak
+
+# --- Firmware cache -----------------------------------------------------------
+# Official MicroPython images downloaded on demand by the application
+# (see firmware/README.md); not part of the source tree.
+firmware/*.bin
+
+# --- Local backups / scratch --------------------------------------------------
+backup_*.zip
+*.log
+*.tmp
+
+# --- Editors / OS ---------------------------------------------------------------
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+desktop.ini

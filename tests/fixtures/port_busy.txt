@@ -1,0 +1,1 @@
+@@ERROR PORT_BUSY Could not open COM7, the port is busy or doesn't exist. | (could not open port 'COM7': PermissionError(13, 'Access is denied.', None, 5)) | Hint: Check if the port is not used by another task

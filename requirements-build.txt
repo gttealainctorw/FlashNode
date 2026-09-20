@@ -1,0 +1,3 @@
+# Only needed to produce the packaged executable.
+-r requirements.txt
+pyinstaller~=6.19

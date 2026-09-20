@@ -1,0 +1,3 @@
+Connecting....
+Detecting chip type... ESP32
+@@CHIP ESP32

@@ -1,0 +1,10 @@
+esptool v5.2.0
+Serial port COM5:
+Connecting....
+Detecting chip type... ESP32-S3
+Connected to ESP32-S3 on COM5:
+Chip type:          ESP32-S3 (QFN56) (revision v0.2)
+Features:           Wi-Fi 802.11b/g/n, BT 5 (LE), Dual Core + LP Core, 240MHz, Embedded PSRAM 8MB (AP_3v3)
+Crystal frequency:  40MHz
+USB mode:           USB-Serial/JTAG
+MAC:                34:85:18:aa:bb:cc

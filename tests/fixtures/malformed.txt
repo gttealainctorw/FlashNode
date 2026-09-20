@@ -1,0 +1,4 @@
+Some unrelated output
+Detecting chip type... esp32-s2 lowercase should not match
+Chip is ESP32-S3 legacy v4 wording is not parsed
+Connected to ESP32-C3-DEVKIT on COM3
